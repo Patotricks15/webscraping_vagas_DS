@@ -1,12 +1,12 @@
 # Webscraping para vagas de cientista de dados
 <p align="center">
-<img scr="https://github.com/Patotricks15/webscraping_vagas_DS/blob/main/WEBSCRAPING%20VAGAS%20DE%20EMPREGO%20CI%C3%8ANCIA%20DE%20DADOS.png",width="80%"></img></center>
+<img src="https://github.com/Patotricks15/webscraping_vagas_DS/blob/main/WEBSCRAPING%20VAGAS%20DE%20EMPREGO%20CI%C3%8ANCIA%20DE%20DADOS.png" width="100%"></img></center>
 </p>
 
 
-O objetivo desse projeto é um notebook/script que faz uma raspagem de dados em 5 sites de emprego. A motivação foi reduzir o tempo gasto entrando em diversos sites e procurar vaga por vagas. Com esse notebook/script, o usuário já obtém algumas informações sobre a vaga e o link de acesso.
+O objetivo desse projeto é um notebook/script que faz uma raspagem de dados em 6 sites de emprego. A motivação foi reduzir o tempo gasto entrando em diversos sites e procurar vaga por vagas. Com esse notebook/script, o usuário já obtém algumas informações sobre a vaga e o link de acesso.
 
-Os 5 sites são:
+Os 6 sites são:
 * **Catho**
 * **Infojobs**
 * **Linkedin**
